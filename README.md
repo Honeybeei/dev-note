@@ -4,23 +4,17 @@ This repository contains quick reference and conceptual guides on programming la
 
 ## 🧑‍💻 Programming Languages
 
-- [🗿 C/C++](./programming-languages/c-c++/README.md)  
-- [🐍 Python](./programming-languages/python/README.md)
-- [🤼 JavaScript and TypeScript](./programming-languages/js-ts/README.md)
+- [🗿 C/C++](./c-c++/README.md)  
+- [🐍 Python](./python/README.md)
+- [🤼 JavaScript and TypeScript](./js-ts/README.md)
 
-## 🧰 Libraries, Frameworks, and Tools
+## 🧰 Libraries, Frameworks, Tools and etc...
 
-- [⚛️ React](./libraries-frameworks-and-tools/react/README.md)
-- [🏄 Node.js and Express](./libraries-frameworks-and-tools/nodejs-express/README.md)
-- [🦜 LangChain and LangGraph](./libraries-frameworks-and-tools/langchain-langgraph/README.md)
-
-## 📦 DevOps
-
-- [🐳 Docker and Kubernetes](./devops/docker-kubernetes/README.md)
-
-## 🤖 AI Applications
-
-- [🦾 Agents](./ai-applications/agents/README.md)
+- [⚛️ React](.tools/react/README.md)
+- [🏄 Node.js and Express](./nodejs-express/README.md)
+- [🦜 LangChain and LangGraph](./langchain-langgraph/README.md)
+- [🐳 Docker and Kubernetes](./docker-kubernetes/README.md)
+- [🤖 LM(Language Model) Engineering](./lm-engineering/README.md)
 
 ## 🖥️ Computer Science
 
